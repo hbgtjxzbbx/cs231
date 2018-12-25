@@ -1,0 +1,5 @@
+**/datasets
+**/*.pyc
+email*
+**/*.gz
+**/*.zip
